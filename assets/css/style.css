@@ -288,7 +288,7 @@ textarea.form-control {
 .site-hero {
   position: relative;
   height: 100vh;
-  background-image: url("../images/backgrounds/hero-background.jpeg");
+  background-image: url("../images/backgrounds/hero-background.webp");
   background-size: cover;
   background-position: center center;
   display: flex;
